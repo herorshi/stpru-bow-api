@@ -12,5 +12,4 @@ function Routes() {
         </Router>
     )
 }
-
 export default Routes
